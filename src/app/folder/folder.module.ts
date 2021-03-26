@@ -5,7 +5,7 @@ import { FormsModule } from '@angular/forms';
 import { IonicModule } from '@ionic/angular';
 
 import { FolderPageRoutingModule } from './folder-routing.module';
-
+import {MatProgressBarModule} from '@angular/material/progress-bar';
 import { FolderPage } from './folder.page';
 
 @NgModule({
@@ -13,7 +13,8 @@ import { FolderPage } from './folder.page';
     CommonModule,
     FormsModule,
     IonicModule,
-    FolderPageRoutingModule
+    FolderPageRoutingModule,
+    MatProgressBarModule
   ],
   declarations: [FolderPage]
 })

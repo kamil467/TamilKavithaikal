@@ -1,5 +1,7 @@
 {
   "name": "TamilKavithai",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }

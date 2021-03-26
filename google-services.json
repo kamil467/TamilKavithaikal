@@ -1,0 +1,114 @@
+{
+  "project_info": {
+    "project_number": "1059993966978",
+    "firebase_url": "https://gravity-admin.firebaseio.com",
+    "project_id": "gravity-admin",
+    "storage_bucket": "gravity-admin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1059993966978:android:58584dc5ae27723f78979b",
+        "android_client_info": {
+          "package_name": "com.kader.kavithaikal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1059993966978-pjbv1j03mhu4m8ivh8jaqr4nl016hiig.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCFc6igvJ5B_8bSSmMhRtplAwUFdYqE2o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1059993966978-pjbv1j03mhu4m8ivh8jaqr4nl016hiig.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1059993966978:android:d0392260c34a952a",
+        "android_client_info": {
+          "package_name": "com.kasamil.kavithaikal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1059993966978-8ip1i6drrgr4qm3gv9uuki5ecmfqb2kj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kasamil.kavithaikal",
+            "certificate_hash": "309e2a64f7c4ff3cfc72ceb46a1dcadc6a8c2ab0"
+          }
+        },
+        {
+          "client_id": "1059993966978-pjbv1j03mhu4m8ivh8jaqr4nl016hiig.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCFc6igvJ5B_8bSSmMhRtplAwUFdYqE2o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1059993966978-pjbv1j03mhu4m8ivh8jaqr4nl016hiig.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1059993966978:android:5ef9c2ca05abd096",
+        "android_client_info": {
+          "package_name": "com.kstech.gravity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1059993966978-io2htbicd141g9mp0iscvt4tp7bv1bvj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kstech.gravity",
+            "certificate_hash": "309e2a64f7c4ff3cfc72ceb46a1dcadc6a8c2ab0"
+          }
+        },
+        {
+          "client_id": "1059993966978-pjbv1j03mhu4m8ivh8jaqr4nl016hiig.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCFc6igvJ5B_8bSSmMhRtplAwUFdYqE2o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1059993966978-pjbv1j03mhu4m8ivh8jaqr4nl016hiig.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
